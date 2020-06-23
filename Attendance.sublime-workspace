@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"pdd",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"form",
+				"form-inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"moda",
+				"modal3"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"A",
+				"Alumni"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mo",
+				"modal2"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"backgroun",
+				"background-position\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"shado",
+				"box-shadow\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Meet/Documents/Imp_Copies/#Swadeshi/HomePage.html",
+		"/C/Users/Meet/Desktop/CG.CPP",
+		"/C/Users/Meet/Desktop/PageReplacement.java",
+		"/C/Users/Meet/Desktop/PageReplacement.class",
+		"/C/Users/Meet/Desktop/tp.java",
+		"/D/UCoE/Projects/ObjectDodgingGame/ODG.c",
+		"/C/Users/Meet/Downloads/ObjectDodgingGame/ninja.c",
+		"/D/UCoE/Projects/ObjectDodgingGame/ObjectDodgingGame.c",
+		"/D/UCoE/Projects/ObjectDodgingGame/ninja.c",
+		"/C/Users/Meet/Downloads/4a996896be37ac89b3e0cf346931c75b-1f372954de5e06277f7771aa93ec44922f9b3b52/ninja.c",
+		"/C/Users/Meet/Downloads/4a996896be37ac89b3e0cf346931c75b-1f372954de5e06277f7771aa93ec44922f9b3b52/Client.py",
+		"/C/Users/Meet/Downloads/4a996896be37ac89b3e0cf346931c75b-1f372954de5e06277f7771aa93ec44922f9b3b52/Server.py",
+		"/C/Users/Meet/Downloads/4a996896be37ac89b3e0cf346931c75b-1f372954de5e06277f7771aa93ec44922f9b3b52/exp8.py",
+		"/C/Users/Meet/Desktop/mt.c",
+		"/C/TURBOC3/Projects/TapandDodge/TapandDodge/TapAndDodge.cpp",
+		"/C/Users/Meet/Desktop/tp.c",
+		"/C/Users/Meet/Desktop/tp.cpp",
+		"/C/Users/Meet/Desktop/hello.py",
+		"/D/Projects/GitHub/Website-designing/src/scss/styles.scss",
+		"/D/Projects/GitHub/Website-designing/src/index.html",
+		"/D/Projects/GitHub/Website-designing/index.html",
+		"/C/Users/Meet/Documents/Alumni_Portal/SignIn.html",
+		"/C/Users/Meet/Documents/#Swadeshi/HomePage.html",
+		"/C/Users/Meet/Documents/Alumni_Portal/index.html",
+		"/C/Users/Meet/Documents/GitHub/Website-designing/index.html",
+		"/C/Users/Meet/Documents/GitHub/Website-designing/src/index.html",
+		"/C/Users/Meet/Documents/GitHub/Website-designing/src/css/bootstrap.css",
+		"/C/Users/Meet/Documents/Alumni_Portal/SignUp.html",
+		"/C/Users/Meet/Downloads/PBL-Team Brainiac (rollno-12,57,117)/login.html",
+		"/C/Users/Meet/Downloads/PBL-Team Brainiac (rollno-12,57,117)/assets/css/login.css",
+		"/C/Users/Meet/Documents/Alumni_Portal/trial.html",
+		"/C/Users/Meet/Desktop/SignIn.html",
+		"/C/Users/Meet/Documents/Alumni Portal/SignIn.html",
+		"/C/Users/Meet/PycharmProjects/PBL/AlumniPortal/Portal/Templates/Portal/SignIn.html",
+		"/C/Users/Meet/Downloads/Website-designing-master/src/index.html",
+		"/C/Users/Meet/Documents/Mini Project- Meet/css/Mystyles.css",
+		"/C/Users/Meet/Documents/Mini Project- Meet/Events.html",
+		"/C/Users/Meet/Desktop/hello.java",
+		"/C/Users/Meet/Desktop/[shell_cmd",
+		"/C/Users/Meet/Desktop/hello",
+		"/C/Users/Meet/Desktop/Simple.java",
+		"/C/Users/Meet/Documents/#Swadeshi/new.html",
+		"/D/IndiaInTribes/HomePage.html",
+		"/C/Users/Meet/Desktop/New Text Document.txt",
+		"/C/Users/Meet/Documents/IndiaInTribes/app.js",
+		"/C/Users/Meet/Documents/IndiaInTribes/HomePage2.html",
+		"/C/Users/Meet/Documents/IndiaInTribes/app.js.txt",
+		"/C/Users/Meet/Documents/IndiaInTribes/HomePage.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Attendance.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
