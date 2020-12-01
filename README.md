@@ -4,7 +4,7 @@
   1. HTML5
   2. CSS3
   3. Javascript
-# Project Authors
+# Project Authors(Team Brainiac):-
  1. Meet Turakhia - https://github.com/Meet-Turakhia
  2. Parth Chudasama - https://github.com/Parjunth
  3. Karandeep Padam - https://github.com/Karandeep07
